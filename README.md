@@ -1,0 +1,1 @@
+Developed a robust Bash script to automate Linux server hardening on Azure VMs by securing SSH, managing users, automating updates, configuring firewalls (UFW), managing logs (logrotate), and scheduling cron jobs—enhancing system security and compliance in a cloud environment.
