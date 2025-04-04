@@ -1,0 +1,8 @@
+Test Your Hardening
+ssh secureuser@<Your_VM_IP> -p 2222
+
+Check if UFW is active:
+sudo ufw status
+
+Check cron jobs:
+crontab -l
